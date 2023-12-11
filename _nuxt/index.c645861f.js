@@ -1,1 +1,0 @@
-import{u as o}from"./index.f2db6be4.js";import{f as s,y as n,L as r}from"./entry.f49e02c7.js";const m=s({__name:"index",async setup(_){let t,a;const e=o();return[t,a]=n(()=>r({path:e("/"),hash:"#work"})),await t,a(),()=>{}}});export{m as default};
